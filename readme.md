@@ -3,7 +3,7 @@
 
 ## Roadmap 
 
-[ ] A single package that you run globally 
+- a single package that you run globally 
 
 
 ## Install 
@@ -20,4 +20,4 @@ Rust
 ```python build.py --r```
 
 Express
-```python build.py --ex```# boo
+```python build.py --ex```
