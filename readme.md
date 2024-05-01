@@ -6,6 +6,11 @@
 [ ] A single package that you run globally 
 
 
+## Install 
+
+This will let the build run globally
+```pip install .```
+
 ## Run
 
 Django
