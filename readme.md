@@ -3,7 +3,7 @@
 
 ## Roadmap 
 
-[ ] - a single package that you run globally 
+[] - a single package that you run globally 
 
 
 ## Run
